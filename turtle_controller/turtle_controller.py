@@ -30,7 +30,7 @@ class TurtleControllerNode(Node):
         self.SAFE_DISTANCE = 1.5
 
         # Wymiary okna i siatki
-        self.WINDOW_SIZE = 700
+        self.WINDOW_SIZE = 500
         self.GRID_SIZE = 11
 
         # Kolor tla, siatki i strzalki
